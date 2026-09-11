@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Assignment {
+public class Practice {
 
     static Scanner sc = new Scanner(System.in);
 
@@ -18,7 +18,7 @@ public class Assignment {
 
             System.out.print("Enter your choice: ");
             int choice = sc.nextInt();
-
+ 
             switch (choice) {
 
                 case 1:

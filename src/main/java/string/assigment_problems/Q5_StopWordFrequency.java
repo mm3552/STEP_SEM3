@@ -1,3 +1,5 @@
+package string.assigment_problems;
+
 import java.util.*;
 
 public class Q5_StopWordFrequency {

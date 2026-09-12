@@ -1,3 +1,5 @@
+package string.assigment_problems;
+
 import java.util.Scanner;
 
 public class Q2_WordReversalEncoder {

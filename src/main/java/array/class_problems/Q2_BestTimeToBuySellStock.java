@@ -1,3 +1,5 @@
+package array.class_problems;
+
 import java.util.*;
 
 public class Q2_BestTimeToBuySellStock {

@@ -1,3 +1,5 @@
+package array.assigment_problems;
+
 import java.util.*;
 
 public class Q3_ThreeSum {

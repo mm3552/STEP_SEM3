@@ -1,20 +1,22 @@
+package array.class_problems;
+
 import java.util.*;
 
-public class Q1_TwoSum {
+public class Q3_ContainsDuplicate {
 
-    public static int[] twoSum(int[] nums, int target) {
+    public static boolean containsDuplicate(int[] nums) {
 
         for (int i = 0; i < nums.length; i++) {
 
             for (int j = i + 1; j < nums.length; j++) {
 
-                if (nums[i] + nums[j] == target) {
-                    return new int[]{i, j};
+                if (nums[i] == nums[j]) {
+                    return true;
                 }
             }
         }
 
-        return new int[]{-1, -1};
+        return false;
     }
 
     public static void main(String[] args) {
@@ -31,12 +33,9 @@ public class Q1_TwoSum {
             nums[i] = sc.nextInt();
         }
 
-        System.out.print("Enter target: ");
-        int target = sc.nextInt();
+        boolean result = containsDuplicate(nums);
 
-        int[] result = twoSum(nums, target);
-
-        System.out.println("Indices: " + Arrays.toString(result));
+        System.out.println("Contains Duplicate: " + result);
 
         sc.close();
     }

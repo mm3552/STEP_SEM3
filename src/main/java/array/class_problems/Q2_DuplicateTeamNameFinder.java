@@ -1,3 +1,5 @@
+package array.class_problems;
+
 import java.util.Scanner;
 
 public class Q2_DuplicateTeamNameFinder {

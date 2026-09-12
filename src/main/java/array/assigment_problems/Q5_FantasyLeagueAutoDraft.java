@@ -1,3 +1,5 @@
+package array.assigment_problems;
+
 import java.util.Arrays;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package array.assigment_problems;
+
 import java.util.Scanner;
 
 public class Q4_MatchDayGridAnalyzer {

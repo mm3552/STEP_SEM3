@@ -11,6 +11,7 @@
 | Week 5 | Array | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_5/src/main/java/array/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_5/src/main/java/array/class_problems) |
 | Week 6 | Classes and Objects | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_6/src/main/java/classes_and_objects/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_6/src/main/java/classes_and_objects/class_problems) |
 | Week 7 | Encapsulation and Access Control | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_7/src/main/java/encapsulation_and_access_control/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_7/src/main/java/encapsulation_and_access_control/class_problems) |
+| Week 8 | Inheritance and Polymorphism | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/class_problems) |
 
 ## Date: 19-09-2026
 

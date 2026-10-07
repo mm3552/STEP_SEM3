@@ -18,12 +18,11 @@
 
 **Today's Work:**
 - Completed Week 9 Abstraction and Interface coding work.
-- Kept Week 9 inside feature/session_9.
+- Added Week 9 inside feature/session_9.
 - Kept the topic structure as class_problems and assigment_problems.
 - Kept develop as the base branch.
 
-**Next Session Plan:**
-- Continue with the next STEP session using a new feature/session_<number> branch created from develop.
+
 
 **Issues Faced:**
 - None.

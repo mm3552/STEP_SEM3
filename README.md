@@ -13,7 +13,7 @@
 | Week 7 | Encapsulation and Access Control | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_7/src/main/java/encapsulation_and_access_control/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_7/src/main/java/encapsulation_and_access_control/class_problems) |
 | Week 8 | Inheritance and Polymorphism | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/class_problems) |
 | Week 9 | Abstraction and Interface | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/class_problems) |
-| Week 10 | Java Fundamentals  | — | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/class_problems) |
+| Week 10 | Java Fundamentals | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/class_problems) |
 
 ## Date: 10-10-2026
 

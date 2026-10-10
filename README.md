@@ -13,18 +13,19 @@
 | Week 7 | Encapsulation and Access Control | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_7/src/main/java/encapsulation_and_access_control/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_7/src/main/java/encapsulation_and_access_control/class_problems) |
 | Week 8 | Inheritance and Polymorphism | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/class_problems) |
 | Week 9 | Abstraction and Interface | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/class_problems) |
+| Week 10 | Java Fundamentals — Category C coding | [Assignment folder](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/assigment_problems) | [10 Coding Solutions](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/class_problems) |
 
-## Date: 05-10-2026
+## Date: 10-10-2026
 
 **Today's Work:**
-- Completed Week 9 Abstraction and Interface coding work.
-- Added Week 9 inside feature/session_9.
+- Completed the 10 Week 10 Part A coding problems from the uploaded Category C PDF.
+- Added the solutions on feature/session_10.
 - Kept the topic structure as class_problems and assigment_problems.
-- Kept develop as the base branch.
 
-
+**Next Session Plan:**
+- Continue with the next STEP session using a new feature/session_<number> branch created from develop.
 
 **Issues Faced:**
-- None.
+- Week 3 was not assigned.
 
 ---

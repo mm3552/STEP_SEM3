@@ -18,14 +18,8 @@
 ## Date: 10-10-2026
 
 **Today's Work:**
-- Completed the 10 Week 10 Part A coding problems from the uploaded Category C PDF.
 - Added the solutions on feature/session_10.
 - Kept the topic structure as class_problems and assigment_problems.
 
-**Next Session Plan:**
-- Continue with the next STEP session using a new feature/session_<number> branch created from develop.
-
-**Issues Faced:**
-- Week 3 was not assigned.
 
 ---

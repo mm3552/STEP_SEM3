@@ -15,11 +15,11 @@
 | Week 9 | Abstraction and Interface | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/class_problems) |
 | Week 10 | Java Fundamentals | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/class_problems) |
 
-## Date: 10-10-2026
+## Date: 14-10-2026
 
 **Today's Work:**
-- Added the solutions on feature/session_10.
-- Kept the topic structure as class_problems and assigment_problems.
+- Created  feature/session_10.
+- Solved class_problems and assigment_problems.
 
 
 ---

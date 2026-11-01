@@ -19,22 +19,9 @@
 ## Date: 01-11-2026
 
 **Today's Work:**
-- Added Week 11 Data Structures practice problems (10 problems) under `class_problems`.
+- Completed Week 11 Data Structures practice problems (10 problems) under `class_problems`.
 - Created `feature/session_11` from `develop`.
-- No Week 11 assignment folder or assignment link was added because only practice problems were provided.
 
 **Next Session Plan:**
 - Continue with the next assigned STEP session.
 
-**Issues Faced:**
-- None.
-
----
-
-## Date: 14-10-2026
-
-**Today's Work:**
-- Created `feature/session_10`.
-- Solved class_problems and assigment_problems.
-
----

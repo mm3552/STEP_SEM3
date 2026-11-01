@@ -14,7 +14,7 @@
 | Week 8 | Inheritance and Polymorphism | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_8/src/main/java/inheritance_and_polymorphism/class_problems) |
 | Week 9 | Abstraction and Interface | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_9/src/main/java/abstraction_and_interface/class_problems) |
 | Week 10 | Java Fundamentals | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_10/src/main/java/java_fundamentals/class_problems) |
-| Week 11 | Data Structures | — | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_11/src/main/java/data_structures/class_problems) |
+| Week 11 | Data Structures | [Assignment](https://github.com/mm3552/STEP_SEM3/tree/feature/session_11/src/main/java/data_structures/assigment_problems) | [Practice](https://github.com/mm3552/STEP_SEM3/tree/feature/session_11/src/main/java/data_structures/class_problems) |
 
 ## Date: 01-11-2026
 

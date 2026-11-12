@@ -22,6 +22,5 @@
 - Completed Week 11 Data Structures practice problems (10 problems) under `class_problems`.
 - Created `feature/session_11` from `develop`.
 
-**Next Session Plan:**
-- Continue with the next assigned STEP session.
+
 

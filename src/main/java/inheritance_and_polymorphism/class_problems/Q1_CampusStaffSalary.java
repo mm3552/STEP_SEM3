@@ -1,0 +1,6 @@
+package inheritance_and_polymorphism.class_problems;
+import java.util.*;
+class Staff {String name;double baseSalary;Staff(String n,double b){name=n;baseSalary=b;}double getBonus(){return 0;}String type(){return "Staff";}double total(){return baseSalary+getBonus();}}
+class Teacher extends Staff {Teacher(String n,double b){super(n,b);}double getBonus(){return 5000;}String type(){return "Teacher";}}
+class LabAssistant extends Staff {LabAssistant(String n,double b){super(n,b);}double getBonus(){return 2000;}String type(){return "LabAssistant";}}
+public class Q1_CampusStaffSalary {public static void main(String[] a){Scanner s=new Scanner(System.in);int n=s.nextInt();Staff[] v=new Staff[n];double grand=0;for(int i=0;i<n;i++){String t=s.next(),name=s.next();double b=s.nextDouble();v[i]=t.equals("Teacher")?new Teacher(name,b):t.equals("LabAssistant")?new LabAssistant(name,b):new Staff(name,b);}for(Staff x:v){System.out.println(x.name+" ("+x.type()+"): base "+x.baseSalary+", bonus "+x.getBonus()+", total "+x.total());grand+=x.total();}System.out.println("Grand Total Salary: "+grand);}}

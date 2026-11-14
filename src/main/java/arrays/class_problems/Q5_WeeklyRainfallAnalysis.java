@@ -1,0 +1,3 @@
+package arrays.class_problems;
+import java.util.*;
+public class Q5_WeeklyRainfallAnalysis {public static void main(String[] a){Scanner s=new Scanner(System.in);double[] r=new double[7];double total=0,max=-1;int wet=1,dry=0;for(int i=0;i<7;i++){r[i]=s.nextDouble();total+=r[i];if(r[i]>max){max=r[i];wet=i+1;}if(r[i]==0)dry++;}System.out.print("Rainfall (mm): ");for(double x:r)System.out.print(x+" ");System.out.println();System.out.println("Total Rainfall: "+total+" mm");System.out.printf("Average Rainfall: %.2f mm%n",total/7);System.out.println("Wettest Day: Day "+wet+" ("+max+" mm)");System.out.println("Total Dry Days: "+dry);}}

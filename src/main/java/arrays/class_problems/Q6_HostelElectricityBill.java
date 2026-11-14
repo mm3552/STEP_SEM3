@@ -1,3 +1,0 @@
-package arrays.class_problems;
-import java.util.*;
-public class Q6_HostelElectricityBill {public static void main(String[] a){Scanner s=new Scanner(System.in);int n=s.nextInt(),billed=0;double total=0;for(int i=0;i<n;i++){String room=s.next();int u=s.nextInt();if(u<0){System.out.println(room+": invalid reading");continue;}double bill;if(u<=100)bill=u*3+50;else if(u<=200)bill=100*3+(u-100)*5+50;else bill=100*3+100*5+(u-200)*8+50;System.out.println(room+": "+u+" units, bill "+(int)bill);total+=bill;billed++;}System.out.println("Rooms billed "+billed+", total "+(int)total);}}

@@ -1,6 +1,0 @@
-package inheritance_and_polymorphism.class_problems;
-import java.util.*;
-public class Q2_ClassReportCard {
- static class Student {private String name;private int a,b,c;Student(String n){name=n;}boolean setMarks(int x,int y,int z){if(x<0||x>100||y<0||y>100||z<0||z>100)return false;a=x;b=y;c=z;return true;}int total(){return a+b+c;}double avg(){return total()/3.0;}String grade(){double x=avg();return x>=80?"A":x>=70?"B":x>=60?"C":x>=40?"D":"F";}public String toString(){return name+" total="+total()+" avg="+String.format("%.2f",avg())+" grade="+grade();}}
- public static void main(String[] args){Scanner s=new Scanner(System.in);int n=s.nextInt(),k=0;Student[] a=new Student[n];for(int i=0;i<n;i++){String name=s.next();Student x=new Student(name);int m=s.nextInt(),p=s.nextInt(),q=s.nextInt();if(x.setMarks(m,p,q))a[k++]=x;else System.out.println(name+" skipped: marks must be 0 to 100");}int passes=0;for(int i=0;i<k-1;i++){boolean changed=false;for(int j=0;j<k-i-1;j++)if(a[j].total()<a[j+1].total()){Student t=a[j];a[j]=a[j+1];a[j+1]=t;changed=true;}passes++;if(!changed)break;}for(int i=0;i<k;i++)System.out.println((i+1)+". "+a[i]);System.out.println("Sorted in "+passes+" passes");}
-}
